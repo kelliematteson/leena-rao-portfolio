@@ -6,8 +6,8 @@ export default function Logo() {
     return (
         <StaticImage
         src="../images/leenaRao.png"
-        width={200}
-        height={200}
+        width={100}
+        height={100}
         alt="Profile picture"
         placeholder="blurred"
         layout="fixed"
